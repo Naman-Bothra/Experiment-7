@@ -1,7 +1,7 @@
 # Experiment-7
 Experiment 7 : Study of while loop in python
-Naman Bothra
-25070123078
+### Naman Bothra
+### 25070123078
 
 ### Aim : 
 Study of while loops in python
